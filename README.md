@@ -1,6 +1,3 @@
-# mahalanobisdistance
-Mahalanobis Distance
-
 # Calculating mahalanobis distance
 import numphy as np
 
